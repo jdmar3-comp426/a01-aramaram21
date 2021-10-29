@@ -31,12 +31,8 @@ header {
     background-color: #10DE1A;
 }
 
-header img{
+img:hover {
     border-style: solid;
-}
-
-head {
-    border-style: dashed;
 }
 
 body p { 
