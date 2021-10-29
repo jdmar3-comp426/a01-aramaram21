@@ -39,5 +39,9 @@ head {
     border-style: dashed;
 }
 
+body p { 
+    font-size: 25px;
+}
+
 
 
