@@ -1,0 +1,43 @@
+body {
+    background-color: #DE9710;
+}
+
+h1 {
+    font-family: 'Chalkduster';
+}
+
+#main_pic { 
+    border-style: dotted;
+}
+
+.pics {
+    border-style: double;
+    height: 500px;
+    width: 500px;
+}
+
+p {
+    font-family: 'Apple Chancery';
+}
+
+a {
+    font-family: 'Courier New';
+}
+a:hover {
+    background-color: #10DEB2;
+}
+
+header {
+    background-color: #10DE1A;
+}
+
+img {
+    border-style: solid;
+}
+
+head {
+    border-style: dashed;
+}
+
+
+
